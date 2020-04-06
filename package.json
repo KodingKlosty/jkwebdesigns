@@ -1,0 +1,22 @@
+{
+  "name": "jkwebdesigns",
+  "version": "0.1.0",
+  "description": "Website for JKWebDesigns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KodingKlosty/jkwebdesigns.git"
+  },
+  "keywords": [
+    "KodingKlosty"
+  ],
+  "author": "KodingKlosty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KodingKlosty/jkwebdesigns/issues"
+  },
+  "homepage": "https://github.com/KodingKlosty/jkwebdesigns#readme"
+}
