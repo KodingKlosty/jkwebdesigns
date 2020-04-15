@@ -1,6 +1,10 @@
 {
   "name": "jkwebdesigns",
   "version": "0.1.0",
+  "engines": {
+    "node" : "12.9.1",
+    "npm" : "6.10.2"
+  },
   "description": "Website for JKWebDesigns",
   "main": "index.js",
   "scripts": {
